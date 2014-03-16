@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CarRace", "CarRace\CarRace.vcxproj", "{293533DE-C14D-4149-9F1B-909DAA8114AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{293533DE-C14D-4149-9F1B-909DAA8114AC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{293533DE-C14D-4149-9F1B-909DAA8114AC}.Debug|Win32.Build.0 = Debug|Win32
+		{293533DE-C14D-4149-9F1B-909DAA8114AC}.Release|Win32.ActiveCfg = Release|Win32
+		{293533DE-C14D-4149-9F1B-909DAA8114AC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
